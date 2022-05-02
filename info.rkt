@@ -1,5 +1,5 @@
 #lang info
 
-(define collection "destruct")
+(define collection 'use-pkg-name)
 (define version "1.0")
 (define scribblings '(("destruct.scrbl" ())))
